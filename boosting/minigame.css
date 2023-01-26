@@ -126,3 +126,14 @@ body{
 .hidden {
     display: none!important;
 }
+
+.icon{
+    
+}
+
+#icontext{
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
