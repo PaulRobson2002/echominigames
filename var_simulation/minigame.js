@@ -143,7 +143,7 @@ let start = () => {
     nums.forEach(function(num){
         let group = document.createElement('div');
         group.id = 'pos'+num;
-        group.classList.add('group','bg'+random(1,15));
+        group.classList.add('group','bg'+random(1,9));
         group.dataset.number = num.toString();
         group.style.top = random(10,755)+'px';
         group.style.left = random(10,1420)+'px';

@@ -126,50 +126,33 @@ body{
     color: transparent;
 }
 
+
 .group.bg1{
-    background-color: #03A300;
+    background-color: #ff0000;
 }
 .group.bg2{
-    background-color: #028000;
+  background-color: #48ff00;
 }
 .group.bg3{
-    background-color: #802525;
+  background-color: #003859;
 }
 .group.bg4{
-    background-color: #9E2E2E;
+  background-color: #dd00ff;
 }
 .group.bg5{
-    background-color: #04F500;
+  background-color: #003602;
 }
 .group.bg6{
-    background-color: #7E2525;
+  background-color: #ffa200;
 }
 .group.bg7{
-    background-color: #027A00;
+  background-color: #570d0d;
 }
 .group.bg8{
-    background-color: #BE3737;
+  background-color: #bb63ff;
 }
 .group.bg9{
-    background-color: #04E000;
-}
-.group.bg10{
-    background-color: #00ffff;
-}
-.group.bg11{
-    background-color: #088f90;
-}
-.group.bg12{
-    background-color: #708fae;
-}
-.group.bg13{
-    background-color: #6394ed;
-}
-.group.bg14{
-    background-color: #0047ab;
-}
-.group.bg15{
-    background-color: #00018b;
+  background-color: #bfa84a;
 }
 
 .group.good{
