@@ -133,7 +133,7 @@ function reset(){
 function start(){
     wrong = 0;
     right = 0;
-    positions = range(0, Math.pow(mode, 2) - 1 );
+    positions = 15;
     shuffle(positions);
     good_positions = positions.slice(0, mode*2+1);
     let div = document.createElement('div');
